@@ -11,12 +11,17 @@ span{
 }
 
 .foto1{
-     width: 700px;
+     width: 800px;
      height: 500px;
 }
 
 .foto2{
-     width: 700px;
+     width: 800px;
+     height: 500px;
+}
+
+.foto3{
+     width: 800px;
      height: 500px;
 }
 
