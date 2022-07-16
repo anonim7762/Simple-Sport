@@ -25,4 +25,22 @@ span{
      height: 500px;
 }
 
+.block{
+     background-color: rgba(72, 156, 47, 0.966);
+     height: 120px;
+     width: 700px;
+     border-radius: 20px;
+     text-align: center;
+     margin: 0px 0px 0px 50px;
+}
+
+.block1{
+     background-color: yellow;
+     height: 120px;
+     width: 700px;
+     text-align: center;
+     border-radius: 20px;
+     margin: 0px 0px 0px 50px;
+}
+
    
